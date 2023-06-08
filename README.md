@@ -23,6 +23,4 @@ The program continues to run until the user selects the option to exit.
 ## Conclusion
 
 This code provides a basic implementation of a beverage inventory management system. It allows for tracking stock levels, sales, income, and waste, providing an overview of beverage operations. It can be further extended and enhanced to meet specific requirements and integrate with other systems.
-```
 
-You can copy and paste this text into your README file on GitHub.
