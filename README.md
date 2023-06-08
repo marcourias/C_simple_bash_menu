@@ -1,11 +1,8 @@
-Apologies for the confusion. Here's the text with the # symbols for the Markdown format:
-
-```
-#Beverage Inventory Management System
+# Beverage Inventory Management System
 
 This code implements a simple beverage inventory management system. It uses C programming language and consists of structures to store data related to beverages and waste. The program provides a menu-driven interface for performing various operations such as registering sales, displaying stock levels, calculating income from sales, recording beverage waste, and showing the economic loss due to waste.
 
-##Explanation
+## Explanation
 
 The code begins by including necessary header files, defining structures for storing beverage and waste data, and declaring a function for clearing the screen.
 
@@ -23,7 +20,7 @@ Based on the user's selection, different functions are called to perform the cor
 
 The program continues to run until the user selects the option to exit.
 
-##Conclusion
+## Conclusion
 
 This code provides a basic implementation of a beverage inventory management system. It allows for tracking stock levels, sales, income, and waste, providing an overview of beverage operations. It can be further extended and enhanced to meet specific requirements and integrate with other systems.
 ```
